@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+h1{
+    margin-left: 40%;
+}
+
+div{
+    margin: 10% 20% 10% 10%;
+}
+
+img.disney{
+    margin-left: 30%;
+}
+
+img.princesas{
+    margin-left: 20%;
+}
